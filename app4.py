@@ -1,12 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-get_ipython().system('pip install dash dash-bootstrap-components pandas numpy plotly')
-
-
 # In[7]:
 
 
